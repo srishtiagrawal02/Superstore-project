@@ -1,7 +1,5 @@
-# Superstore-Excel-Dashboard
-Sales analysis dashboard using Excel with KPIs, Pivot tables, and visualizations.
-
 # Superstore Sales Dashboard (Excel)
+Sales analysis dashboard using Excel with KPIs, Pivot tables, and visualizations.
 
 This is a sales analysis project using Excel, based on a superstore dataset.  
 It includes:
