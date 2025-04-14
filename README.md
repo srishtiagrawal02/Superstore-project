@@ -10,3 +10,4 @@ It includes:
 - Pivot tables and slicers
 - Interactive visual dashboard
 
+<img width="735" alt="Dashboard" src="https://github.com/user-attachments/assets/4a8df9f6-ad7d-4522-949b-e4621309b09d" />
