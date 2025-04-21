@@ -1,4 +1,4 @@
-# 📊 Superstore Sales & Customer Insights Dashboard (Excel | Python | SQL)
+# 📊 Superstore Sales & Customer Insights Dashboard (Excel | Python | SQL | Power BI )
 
 This project is an Excel-based dashboard that provides insights into sales and profit performance for a fictional Superstore.
 
@@ -49,5 +49,44 @@ All analyses are based on the **Superstore dataset**, containing order-level det
 - Sales, Profit, Discount
 - Customer info and Region
 - Order Date and Ship Mode
+
+# 📊 Superstore Sales & Profit Dashboard (Power BI)
+
+This Power BI dashboard provides comprehensive insights into the sales, profit, and order patterns of a fictional Superstore from 2014 to 2017.
+
+## 🔍 Key Insights
+
+- **Total Sales:** ₹2.30 Million+
+- **Total Profit:** ₹0.29 Million+
+- **Total Orders:** 9,994+
+- **Time Period:** 2014 to 2017
+
+---
+
+## 📈 Visualizations Included
+
+- ✅ **KPIs** for Total Sales, Profit, Orders  
+- 📊 **Sales by Category** (Bar + Tree Map)
+- 💰 **Profit by Region**  
+- 📆 **Sales Trend by Year**
+- 📍 **Sales & Quantity by Region** (Pie Charts)
+- 🎯 **Dynamic Filtering** by Year, Region, Category
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Data Modelling
+- Interactive Dashboards
+- Slicers & Filters
+- Visual Formatting and Color Theme
+
+---
+
+## 📸 Dashboard Preview
+
+<img width="603" alt="{FBD3E01E-99B2-4214-A7F1-775BAB07BE8A}" src="https://github.com/user-attachments/assets/21f32d6b-fc03-4e08-9f39-187268c1825a" />
 
 
