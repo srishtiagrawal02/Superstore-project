@@ -87,6 +87,7 @@ This Power BI dashboard provides comprehensive insights into the sales, profit, 
 
 ## 📸 Dashboard Preview
 
-<img width="603" alt="{FBD3E01E-99B2-4214-A7F1-775BAB07BE8A}" src="https://github.com/user-attachments/assets/21f32d6b-fc03-4e08-9f39-187268c1825a" />
+<img width="606" alt="{A7EBE53A-DB30-49A6-AC3B-BDDC9304ABCA}" src="https://github.com/user-attachments/assets/3aa21179-92db-4bf9-9249-5c7527c63f0d" />
+
 
 
